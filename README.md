@@ -27,3 +27,6 @@ To help me answer the statistical analysis question of "median vs mode", I googl
 Source: https://online.stat.psu.edu/stat200/lesson/2/2.2/2.2.4/2.2.4.1#:~:text=For%20distributions%20that%20have%20outliers,to%20outliers%20than%20the%20mean.
 
 Additionally, I consulted our course materials several times in order to remind myself how to build charts, how to write efficient formulas, and how to interpret the info last excel sheet "Stats Summary", so I could properly answer questions. I think inserting a box plot was the correct way to visualize data and determine the outliers?
+
+I followed the link provided in the challenge in order to help me create the "Date Created Conversion" and "Date Ended Conversion" columns (N and O) in the main Crowdfunding sheet.
+Source: https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html
