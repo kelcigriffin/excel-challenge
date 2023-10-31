@@ -1,6 +1,7 @@
 # excel-challenge
 
 Code Sources and Locations:
+
 For the task of dividing "category & subcategory" into two separate columns on the main Crowdfunding worksheet (Column R), I googled "pull first and last names from excel and create two columns". This was the best example I could think of to use, to help me extract data and split into 2 columns. (I picked up that phrasing from reading the google search results. I can now articulate this as "excel formula for extracting data). I took this code and modified it to fit my needs:
 Step 1: Enter the formula "=LEFT(A2, FIND(" ", A2, 1) - 1)" in a blank cell (e.g., B2) to extract the first name. Step 2: Enter the formula "=RIGHT(A2, LEN(A2) - FIND(" ", A2, 1))" in another blank cell (e.g., C2) to extract the last name.
 Source: [wps.com](https://www.wps.com/academy/how-to-split-first-and-last-name-in-excel-quick-tutorials-1863889/)https://www.wps.com/academy/how-to-split-first-and-last-name-in-excel-quick-tutorials-1863889/
